@@ -1,3 +1,8 @@
+layout: page
+title: "Promóció"
+permalink: /promo
+---
+
 ## Promóció
 
 ## Folyamatok leírása
