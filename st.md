@@ -1,3 +1,8 @@
+layout: page
+title: "CV"
+permalink: /cv
+---
+
 ## Contact +36305187211 (Home) info@sipostibor.hu
 
 <https://www.linkedin.com/in/sipostibor> (LinkedIn) <https://www.sipostibor.hu> (Personal)
