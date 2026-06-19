@@ -21,6 +21,11 @@ A promóciós árazás meghatározása során az adott beszerző dönt arról, h
 
 A folyamat zárásaként a tervezett promóciók menedzselése történik meg, amely biztosítja, hogy az elfogadott promóciók a megfelelő csatornákon, a jóváhagyott árakkal és feltételekkel kerüljenek megvalósításra. A folyamat kimenete a sikeresen előkészített és elindított promóció, amely bolti, online vagy egyéb marketing felületeken jelenik meg. *Akciós újság tervezés *
 
+- ![p2-1](promo_assets/img_002_01.png)
+- ![p2-2](promo_assets/img_002_02.png)
+- ![p2-3](promo_assets/img_002_03.png)
+- ![p2-4](promo_assets/img_002_04.png)
+
 *1. ábra Akciós újság tervezés folyamatának főbb lépései *
 
 Az akciós újság tervezésének és végrehajtásának folyamata az akció indulásához képest T-73. napon (körülbelül 10 héttel az indulás előtt) indul. A folyamat célja, hogy a marketing és a beszerzés közösen összeállítsa az akciós újság tartalmát (termékek, variációk, akciós árak és kedvezmények, érvényességi időszak), majd a kapcsolódó előkészítések (igények, rendelés, bolti és árazási beállítások, ellenőrzések) után az akció az üzletekben kontrolláltan elinduljon, végül pedig megtörténjen az akció eredményének kiértékelése.
@@ -109,10 +114,7 @@ A modul „fej + sor" logikával működik: a fej szinten rögzíthetők az adot
 *ECLSBC-564 - Beszerzés - Osztogatás, MultiBuy kapcsán értesítés * A fejlesztés célja, hogy a Business Central egy ütemezett folyamat segítségével minden nap elején, az aznap induló osztogatás (valamint egyéb kedvezményes) promóciókról automatikusan belső hírlevelet/feladatot generáljon a Feladat- és hírlevélkezelőben, és ezzel értesítse az üzleteket. A hírlevél szövegtörzse tartalmazza az aznap induló promóciók listáját. A működés előfeltétele a paraméterezett feladatgenerálás és a komplex címzettkezelés megléte.
 
 **Images from page 2:**
-- ![p2-1](promo_assets/img_002_01.png)
-- ![p2-2](promo_assets/img_002_02.png)
-- ![p2-3](promo_assets/img_002_03.png)
-- ![p2-4](promo_assets/img_002_04.png)
+
 
 **Images from page 8:**
 - ![p8-1](promo_assets/img_008_01.png)
